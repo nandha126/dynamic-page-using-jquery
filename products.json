@@ -1,0 +1,17 @@
+[{"name": "Sports shoes",
+"description": "This is Sports shoes. Comfotable for Sports.",
+"img_url": "./img/01.jpg",
+"rating": 5},
+{"name": "Gym shoes",
+"description": "This is Gym shoes. Comfotable for Gym.",
+"img_url": "./img/03.jpg",
+"rating": 4},
+{"name": "Casuals shoes",
+"description": "This is Casuals shoes. Comfotable for Roaming.",
+"img_url": "./img/05.jpg",
+"rating": 2},
+{"name": "Wild shoes",
+"description": "This is Wild shoes. Comfotable for Wild Travel.",
+"img_url": "./img/04.jpg",
+"rating": 1}
+]
